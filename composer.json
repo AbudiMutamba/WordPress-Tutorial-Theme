@@ -1,0 +1,7 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Abudiadd_action('wp_enqueue_script', [$this, 'enqueue-styles']);\\Tutorial_Theme\\": "src/"
+        }
+    }
+}
